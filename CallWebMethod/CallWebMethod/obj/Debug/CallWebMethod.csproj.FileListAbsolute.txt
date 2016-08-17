@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2012\Projects\CallWebMethod\CallWebMethod\obj\Debug\CallWebMethod.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\CallWebMethod\CallWebMethod\bin\Debug\CallWebMethod.exe
+c:\users\administrator\documents\visual studio 2012\Projects\CallWebMethod\CallWebMethod\bin\Debug\CallWebMethod.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\CallWebMethod\CallWebMethod\obj\Debug\CallWebMethod.exe
+c:\users\administrator\documents\visual studio 2012\Projects\CallWebMethod\CallWebMethod\obj\Debug\CallWebMethod.pdb
